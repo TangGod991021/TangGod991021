@@ -4,13 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TangGod991021&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
-
 
 <!---
 TangGod991021/TangGod991021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
